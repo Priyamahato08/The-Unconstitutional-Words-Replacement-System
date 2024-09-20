@@ -1,0 +1,1 @@
+This Python based project replaces specified "bad" words in a paragraph with "good" words, highlighting the original and replaced words. It uses a userprovided file for the word replacements and outputs both the highlighted and modified text.
